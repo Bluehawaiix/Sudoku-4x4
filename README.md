@@ -39,8 +39,18 @@ Setup Instructions
 - Each row and column must contain unique numbers.
 - Press Enter to validate your solution:
   For the correct solution, it shows "Perfect! You are genius"
-  For the incorrect solution, it shows "Incorrect solution! Check the lines."
+<img width="200" height="300" alt="Screenshot 2026-10-13 230934" src="https://github.com/user-attachments/assets/99b79d91-5eab-4a9e-8c8b-bf2ccbe1085c" />
+
+  
+  For the incorrect solution, it shows "Incorrect solution! Check it again."
+  
+<img width="200" height="300" alt="Screenshot 2026-10-13 230920" src="https://github.com/user-attachments/assets/a27b3ef9-c8fd-422a-944e-2414a77a1350" />
+
+  
   For the incomplete solution, it shows "Incomplete! Keep working."
+  
+<img width="200" height="300" alt="Screenshot 2026-10-13 230849" src="https://github.com/user-attachments/assets/91374fee-5927-494a-a464-ab09a138965d" />
+
 
 ### Exit
 - Close the window to exit the game.
@@ -51,3 +61,6 @@ When you launch the game:
 - You can interact with the board using mouse and keyboard.
 - A timer runs at the bottom of the screen.
 - Messages guide you as you play and check your solution.
+
+<img width="200" height="300" alt="Screenshot 2026-10-13 230816" src="https://github.com/user-attachments/assets/39db8136-41a7-4576-9e32-c5087b46f595" />
+
