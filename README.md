@@ -32,7 +32,7 @@ Setup Instructions
 - Mouse click -> Select a cell (only empty cells can be selected).
 - Number keys(1-4) -> Fill the selected xell with that number.
 - Backspace/Delete -> Clear the selected cell.
-- Enter -> Check the solution.
+- Enter/Return -> Check the solution.
 
 ### Game Rules
 - Fill in all empty cells with numbers 1-4.
