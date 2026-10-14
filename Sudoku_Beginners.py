@@ -69,17 +69,6 @@ def first_empty():
     return None
 
 
-def move_selection(dr, dc):
-    """Shift the highlight by one cell, skipping given numbers and edges."""
-    global selected
-    if selected is None:
-        selected = first_empty()
-        return
-    r, c = selected[0] + dr, selected[1] + dc
-    if 0 <= r < SIZE and 0 <= c < SIZE and not given[r][c]:
-        selected = (r, c)
-
-
 def unique(cells):
     """True when a row/column/box holds SIZE different numbers."""
     return len(set(cells)) == SIZE
