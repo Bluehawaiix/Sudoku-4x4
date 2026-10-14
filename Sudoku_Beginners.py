@@ -96,9 +96,8 @@ def check_solution():
 
 def handle_key(key):
     """Apply one key press to the game state."""
-    if key in ARROW_KEYS:
-        move_selection(*ARROW_KEYS[key])
-    elif selected is not None and key in NUMBER_KEYS:
+    
+    if selected is not None and key in NUMBER_KEYS:
         grid[selected[0]][selected[1]] = NUMBER_KEYS[key]
     elif selected is not None and key in CLEAR_KEYS:
         grid[selected[0]][selected[1]] = 0
