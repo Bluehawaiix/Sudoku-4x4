@@ -1,6 +1,6 @@
 ## Mini 4x4 Sudoku 
 This project implements a mini interactive Sudoku game built with Python and Pygame library. Unlike traditional 9x9 Sudoku,
-this version uses a 4x4 grid divided into 2x2 sub-boxes, making it simpler and faster to play.
+this version uses a 4x4 grid divided into 2x2 sub-boxes, making it simpler and faster to play. (For submitting my perofessor only!)
 
 The game provides:
 A graphical interface with a Sudoku board.
